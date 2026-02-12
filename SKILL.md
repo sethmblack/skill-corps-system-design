@@ -1,11 +1,10 @@
 ---
 name: corps-system-design
-description: Design organizational structures that balance autonomy with coordination,
-  allowing parallel action and rapid concentration.
+description: Design organizational structures that balance autonomy with coordination, allowing parallel action and rapid concentration.
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.1
 keywords:
 - corps-system-design
 - escalation
