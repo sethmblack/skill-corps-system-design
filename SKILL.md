@@ -4,7 +4,8 @@ description: Design organizational structures that balance autonomy with coordin
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.1
+  version: 1.0.3690
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - corps-system-design
 - escalation
